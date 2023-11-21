@@ -46,3 +46,9 @@ const isFirstLargerThanLast = n1 > n4
 
 //log if larger or not
 console.log(isFirstLargerThanLast)
+
+//aritmentic chain problem
+const arithmeticChain = (n2-n1) * n3 % n4
+
+//log it
+console.log(arithmeticChain)
